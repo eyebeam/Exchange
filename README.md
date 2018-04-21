@@ -1,0 +1,2 @@
+# Exchange
+A series of monthly classes and workshops led by teaching artists. Our goal with the Exchange is to introduce curious learners to new subjects through tools, context and examples, providing enough insight so that students feel more comfortable exploring these topics after the workshop. You will walk away with more questions then you started and we hope you are as excited about that as we are.
