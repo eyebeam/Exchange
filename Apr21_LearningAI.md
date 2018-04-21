@@ -5,8 +5,9 @@ Watch a recoring of the full class [here](https://www.youtube.com/watch?v=VrzqVw
 
 
 #### Session 1: Emotional / Subjective Data and Dataset Creation, Led by Hannah Davis
-Curriculum for the class can be found here [https://github.com/handav/curriculum/blob/master/SubjectiveData.md](https://github.com/handav/curriculum/blob/master/SubjectiveData.md)
-Slides can be found at https://drive.google.com/open?id=117x4LZx_OxD65nuQVGpLtGoi-kP-lkDY. These slides are available with attribution only.
+Curriculum for the class at [https://github.com/handav/curriculum/blob/master/SubjectiveData.md](https://github.com/handav/curriculum/blob/master/SubjectiveData.md)
+
+Slides for class at https://drive.google.com/open?id=117x4LZx_OxD65nuQVGpLtGoi-kP-lkDY. These slides are available with attribution only.
 
 This session looked at emotional/subjective data and dataset creation. What does ‘subjective data’ means, how to capture abstractions like emotions and other subjective experiences in datasets and examine currently available emotional datasets, exploring them critically.
 
@@ -16,8 +17,9 @@ Participants will learn to identify subjectivity in “objective” datasets by 
 
 
 #### Session 2: Deep Learn Web, Led by Cristóbal Valenzuela & Yining Shi
-Curriculum from the class can be found [https://github.com/yining1023/curriculum/blob/master/FriendlyMachineLearning.md](https://github.com/yining1023/curriculum/blob/master/FriendlyMachineLearning.md)
-Slides for the class can be found here [https://docs.google.com/presentation/d/1gM8F5Ybo4z27q3kGWc2cw-fQ3x5Wf-Zj71InlC091z8/edit?usp=sharing](https://docs.google.com/presentation/d/1gM8F5Ybo4z27q3kGWc2cw-fQ3x5Wf-Zj71InlC091z8/edit?usp=sharing)
+Curriculum from the class at [https://github.com/yining1023/curriculum/blob/master/FriendlyMachineLearning.md](https://github.com/yining1023/curriculum/blob/master/FriendlyMachineLearning.md)
+
+Slides for the class at [https://docs.google.com/presentation/d/1gM8F5Ybo4z27q3kGWc2cw-fQ3x5Wf-Zj71InlC091z8/edit?usp=sharing](https://docs.google.com/presentation/d/1gM8F5Ybo4z27q3kGWc2cw-fQ3x5Wf-Zj71InlC091z8/edit?usp=sharing)
 
 This workshop focused on doing deep learning in the browser with javascript. We will use [ML5](https://github.com/ITPNYU/p5-deeplearn-js), an experimental library that does not require any setup tools or complicated frameworks to install. This will be a beginners friendly workshop and no previous knowledge of machine learning is required. Basic experience with javascript would be helpful.
 
