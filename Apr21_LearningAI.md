@@ -33,7 +33,7 @@ This workshop focused on doing deep learning in the browser with javascript. We 
 * Lauren G @poohlaga
 * Marcha @majjism
 * Kyle @foxportal
-* Ayo @ayo.io
+* Ayo @ayoio
 * April @aprilsotarman
 * Lauren B @lalabarnett
 * Garrett @brks_grrtt
@@ -52,3 +52,5 @@ This workshop focused on doing deep learning in the browser with javascript. We 
 * Hannah @ahandvanish
 * Emma @doodybrains
 * Angelina @oxangiemarie
+* Katherine @kakirine
+* Antonia @antoniablairart
