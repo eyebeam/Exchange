@@ -5,4 +5,4 @@ Each class listed below links to a page that contains the syllabus, slides and a
 
 ### April 21, 2018 - [Learning AI: Creating Emotional Data Sets and Deep Learning in the Browser with ML5](https://github.com/eyebeam/Exchange/blob/master/Apr21_LearningAI.md) 
 * Taught by; [Hannah Davis](https://github.com/handav), [Cristóbal Valenzuela](https://github.com/cvalenzuela) & [Yining Shi](https://github.com/yining1023) with teaching assistance by Marcha M Johnson
-* Organized by; [Lauren Gardner](@poohlaga) at Eyebeam
+* Organized by; [Lauren Gardner](https://github.com/poohlaga) at Eyebeam
