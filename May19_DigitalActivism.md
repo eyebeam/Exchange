@@ -3,12 +3,12 @@
 _Closer to the date of the event, we will share a link on this page to watch the event live!_
 
 ### Schedule
-10:30 am - doors open, come early if you need help installing anything
-11:00 am - Intro & kickoff
-11:30 am - Session 1
-1:30 pm - lunch (byo sandwich or neighborhood deli)
-2:30 pm - Session 2
-4:30 pm - Wrap up & final questions
+- 10:30 am - Doors open, come early if you need help installing anything
+- 11:00 am - Intro & kickoff
+- 11:30 am - Session 1
+- 1:30 pm - Lunch (byo sandwich or neighborhood deli)
+- 2:30 pm - Session 2
+- 4:30 pm - Wrap up & final questions
 
 ### Session 1: Understanding the Internet through Herbivore, led by Surya Mattu
 _Curriculum and slides for the class will be shared here closer to the date of the event._
