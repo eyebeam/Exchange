@@ -10,7 +10,7 @@ _Closer to the date of the event, we will share a link on this page to watch the
 - 4:30 pm - Wrap up & final questions
 
 ## Session 1: Understanding the Internet through Herbivore, led by Surya Mattu
-_Curriculum and slides for the class will be shared here closer to the date of the event._
+* Curriculum can be found [here](https://github.com/eyebeam/curriculum/blob/master/UnderstandingInternetWHerbivore.md)
 
 This workshop is ideal for those who are interested in learning how to packet sniff or learn what that even means. We will use [Herbivore](https://github.com/samatt/herbivore), an open source tool that demystifies the world of network packets for the uninitiated. A handful of packet sniffing libraries and desktop applications already exist for analyzing network packets, but they were designed for people who have programming experience or a network engineering background; they were not designed as educational tools for people without technical backgrounds. In this workshop we will go through the basics of what packet sniffing means, run through a few exercises and let you try it out.
 
