@@ -1,5 +1,5 @@
 # Internet Tools for Digital Activism  --  Surya Mattu & Ari Melenciano  --  May 19, 2018
-_Closer to the date of the event, we will share a link on this page to watch the event live!_
+* Watch the livestream video [here](https://www.youtube.com/watch?v=KuRHxBvTMrM)
 
 ### Schedule
 - 10:30 am - Doors open, come early if you need help installing anything
