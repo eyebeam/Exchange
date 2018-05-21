@@ -22,7 +22,7 @@ You will need a Mac to run Herbivore. Even if you don’t have a Mac, you’ll s
 
 
 ## Session 2: Digital Activism, led by Ari Melenciano
-_Curriculum and slides for the class will be shared here closer to the date of the event._
+* Curriculum & slides can be found [here](https://github.com/ariciano/DigitalActivism)
 
 In this course we will build Twitter bots that can be used to engage users politically with tweets that reflect social injustices. This will be done through a text editor, such as [Atom](https://atom.io/), and using node.js. Goals of this course include teaching students how to “hack” social media for activist purposes, how to build personal APIs, how to build a Twitter bot, and gaining a basic understanding of coding.
 
