@@ -18,6 +18,9 @@ The Little JuJu collection is comprised of a home station (Heart) and wearable ‚
 * Organized by; [Lauren Gardner](https://github.com/poohlaga) at Eyebeam
 
 ### April 21, 2018 - Learning AI: Creating Emotional Data Sets and Deep Learning in the Browser with ML5 
+
+The day will consist of two artist-led workshops that explore the tools used for deep learning and the datasets that can be created by them. Workshops begin with an introduction on the potentials of culturally attuned AI by Stephanie Dinkins whose working to create a unique culturally attuned AI entity in collaboration with coders, engineers and in close consultation with local communities of color that reflects and is empowered to work toward the goals of its creators.
+
 * [class & slides here](https://github.com/eyebeam/Exchange/blob/master/Apr21_LearningAI.md) 
 * Taught by; [Hannah Davis](https://github.com/handav), [Crist√≥bal Valenzuela](https://github.com/cvalenzuela) & [Yining Shi](https://github.com/yining1023) with teaching assistance by Marcha M Johnson
 * Organized by; [Lauren Gardner](https://github.com/poohlaga) at Eyebeam
