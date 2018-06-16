@@ -8,7 +8,7 @@ Explore the use of technology to serve offline communities by making networked, 
 
 The Little JuJu collection is comprised of a home station (Heart) and wearable “Talismans” that record and respond to the wearer’s behavior and environment via input and output systems of visualization, sonification, haptics, and ancestral divination. Sensor data is shared via the Internet with other Juju collections, thus mapping a network of Little Juju wearers. This activated network supports a novel structure to respond to the shifting global socio-political landscape by facilitating collaborative arts and experiences that grow, change, and sustain modern tribes into the future.
 
-* class & slides upcoming
+* [class & slides upcoming](https://github.com/eyebeam/Exchange/blob/master/Jul16_OnlineOffline.md)
 * Taught by; [Ayodamola Okunseinde](http://ayo.io/), [Wiena Lin](http://www.wienalin.com/)
 * Organized by; [Lauren Gardner](https://github.com/poohlaga) at Eyebeam
 
