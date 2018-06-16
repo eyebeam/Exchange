@@ -11,6 +11,8 @@ Explore the use of technology to serve offline communities by making networked, 
 * Organized by; [Lauren Gardner](https://github.com/poohlaga) at Eyebeam
 
 ### May 19, 2018 - Internet Tools For Digital Activism 
+This month’s Exchange focuses on tools that help us both understand the internet and use it for purposes of activism.
+
 * [class & slides here](https://github.com/eyebeam/Exchange/blob/master/May19_DigitalActivism.md) 
 * Taught by; [Surya Mattu](https://github.com/samatt), [Ari Melenciano](https://github.com/ariciano)
 * Organized by; [Lauren Gardner](https://github.com/poohlaga) at Eyebeam
